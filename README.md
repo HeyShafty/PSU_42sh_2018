@@ -1,5 +1,11 @@
 # PSU_42sh_2018
 
+**Group members:**  
+  - [@HeyShafty](https://github.com/HeyShafty)
+  - [@Kilio22](https://github.com/Kilio22)
+  - [@antoinegosselin](https://github.com/antoinegosselin)
+  - [@rodolphedps](https://github.com/rodolphedps)
+
 Reproduction of the tcsh shell in C.
 Passes 87.5% of tests
 
