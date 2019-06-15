@@ -5,6 +5,7 @@
   - [@Kilio22](https://github.com/Kilio22)
   - [@antoinegosselin](https://github.com/antoinegosselin)
   - [@rodolphedps](https://github.com/rodolphedps)
+  - [@Zoujoko](https://github.com/Zoujoko)
 
 Reproduction of the tcsh shell in C.
 Passes 87.5% of tests
